@@ -1,0 +1,20 @@
+After 1 training step(s), loss on training batch is 7.53793.
+time used= 49.27504029596247
+After 2 training step(s), loss on training batch is 4.61794.
+time used= 45.596354585808825
+After 3 training step(s), loss on training batch is 5.07018.
+time used= 47.06145046803965
+After 4 training step(s), loss on training batch is 4.10517.
+time used= 48.22987709439869
+After 5 training step(s), loss on training batch is 2.77271.
+time used= 47.53618425809941
+After 6 training step(s), loss on training batch is 3.87123.
+time used= 46.160113178587494
+After 7 training step(s), loss on training batch is 4.6066.
+time used= 46.45538566326809
+After 8 training step(s), loss on training batch is 4.40939.
+time used= 45.49136954954827
+After 9 training step(s), loss on training batch is 3.42409.
+time used= 45.51544682449162
+After 10 training step(s), loss on training batch is 3.546.
+time used= 44.90103078354946
