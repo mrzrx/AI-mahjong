@@ -5,7 +5,7 @@ This is a smart mahjong implements by [joaming](https://github.com/joaming), Guo
 We mainly imitate AlphaGo zero's design ideas. The paper is [here](https://deepmind.com/documents/119/agz_unformatted_nature.pdf)<br>
 <br>
 
-    ***Thanks to our teacher Guo Wenhai very much!***
+***Thanks to our teacher Guo Wenhai very much!***
 
 ## Neural network structure
 
