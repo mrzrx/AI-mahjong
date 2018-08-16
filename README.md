@@ -7,13 +7,18 @@ We mainly imitate AlphaGo zero's design ideas. The paper is here [Mastering the 
 ***Thanks to our teacher Guo Wenhai very much!*** <br>
 <br>
 [Overview](#Overview)<br>
-[Play Game](#Play Game)<br>
+[Play](#Play)<br>
 [Network](#Network)<br>
-[Result](#Result)<br>
-
+[Result](#result)<br>
+[Future](#future)<br>
 [Reference](#Reference)
 
-## Play Game
+## Overview
+
+This is a two players' mahjong game.<br>
+Every player makes an action across neural network's output(policy), and the datas produced on game will be updated by the result of game, then provided to neural network to training.
+
+## Play
 
 ![](https://github.com/mrzrx/AI-mahjong/blob/master/image_for_readme/play.jpg)
 
@@ -22,11 +27,13 @@ We mainly imitate AlphaGo zero's design ideas. The paper is here [Mastering the 
 ![](https://charlesliuyx.github.io/2017/10/18/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E7%9C%8B%E6%87%82AlphaGo%E5%85%83/ResNet.svg)
 ![](https://charlesliuyx.github.io/2017/10/18/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E7%9C%8B%E6%87%82AlphaGo%E5%85%83/VPoutput.svg)
 
-## Result
-
-The system can run and  
+## Result  
 
 ![](https://github.com/mrzrx/AI-mahjong/blob/master/image_for_readme/result.jpg)
+
+## Future
+
+This project's result is not well. In fact, its intelligence looks like a baby, and the iteration time is too long. So there are many places to improve.
 
 ## Reference
 
