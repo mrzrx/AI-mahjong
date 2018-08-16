@@ -6,12 +6,12 @@ We mainly imitate AlphaGo zero's design ideas. The paper is here [Mastering the 
 <br>
 ***Thanks to our teacher Guo Wenhai very much!*** <br>
 <br>
-[Overview](#Overview)<br>
-[Play](#Play)<br>
-[Network](#Network)<br>
+[Overview](#overview)<br>
+[Play](#play)<br>
+[Network](#network)<br>
 [Result](#result)<br>
 [Future](#future)<br>
-[Reference](#Reference)
+[Reference](#reference)
 
 ## Overview
 
