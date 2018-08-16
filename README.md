@@ -7,8 +7,8 @@ We mainly imitate AlphaGo zero's design ideas. The paper is [here](https://deepm
 ***Thanks to our teacher Guo Wenhai very much!*** <br>
 <br>
 [Network](#Network)<br>
-[Result](Result)<br>
-[Reference](Reference)
+[Result](#Result)<br>
+[Reference](#Reference)
 
 ## Network
 
