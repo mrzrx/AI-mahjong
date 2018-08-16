@@ -12,7 +12,7 @@ We mainly imitate AlphaGo zero's design ideas. The paper is [here](https://deepm
 
 ## Play
 
-![](https://github.com/mrzrx/AI-mahjong/img_for_readme/play.png)
+![](https://github.com/mrzrx/AI-mahjong/img_for_readme/play.jpg)
 
 ## Network
 
@@ -21,7 +21,7 @@ We mainly imitate AlphaGo zero's design ideas. The paper is [here](https://deepm
 
 ## Result
 
-![](https://github.com/mrzrx/AI-mahjong/img_for_readme/result.png)
+![](https://github.com/mrzrx/AI-mahjong/img_for_readme/result.jpg)
 
 ## Reference
 
