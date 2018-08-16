@@ -3,15 +3,13 @@ AI-mahjong
 
 This is a smart mahjong implements by [joaming](https://github.com/joaming), Guo Houjun and me.<br>
 We mainly imitate AlphaGo zero's design ideas. The paper is [here](https://deepmind.com/documents/119/agz_unformatted_nature.pdf)<br>
+**Thanks to our teacher Guo Wenhai very much!**<br>
 <br>
 
 ## Neural network structure
 
 ![](https://charlesliuyx.github.io/2017/10/18/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E7%9C%8B%E6%87%82AlphaGo%E5%85%83/ResNet.svg)
 ![](https://charlesliuyx.github.io/2017/10/18/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E7%9C%8B%E6%87%82AlphaGo%E5%85%83/VPoutput.svg)
-<br>
-
-**Thanks to our teacher Guo Wenhai very much!**<br>
 <br>
 
 ## Reference
