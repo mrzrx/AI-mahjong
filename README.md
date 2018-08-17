@@ -1,17 +1,17 @@
 AI-mahjong 
 ===
 
-This is a smart mahjong implements by [joaming](https://github.com/joaming), Guo Houjun and me on tensorflow.<br>
+This is a smart mahjong implements by [joaming](https://github.com/joaming), [ghj](https://github.com/ghj227) and me on tensorflow.<br>
 We mainly imitate AlphaGo zero's design ideas. The paper is here [Mastering the Game of Go without Human Knowledge](https://deepmind.com/documents/119/agz_unformatted_nature.pdf)<br>
 <br>
 ***Thanks to our teacher Guo Wenhai very much!*** <br>
 <br>
-[Overview](#overview)<br>
-[Play](#play)<br>
-[Network](#network)<br>
-[Result](#result)<br>
-[Future](#future)<br>
-[Reference](#reference)
+1. [Overview](#overview)<br>
+2. [Play](#play)<br>
+3. [Network](#network)<br>
+4. [Result](#result)<br>
+5. [Future](#future)<br>
+6. [Reference](#reference)
 
 ## Overview
 
