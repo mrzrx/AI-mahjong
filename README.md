@@ -4,7 +4,7 @@ AI-mahjong
 This is a smart mahjong implements by [joaming](https://github.com/joaming), [ghj](https://github.com/ghj227) and me on tensorflow.<br>
 We mainly imitate AlphaGo zero's design ideas. The paper is here [Mastering the Game of Go without Human Knowledge](https://deepmind.com/documents/119/agz_unformatted_nature.pdf)<br>
 <br>
-***Thanks to our teacher Guo Wenhai very much!*** <br>
+***Thanks to our teacher Wenhai Guo very much!*** <br>
 <br>
 1. [Overview](#overview)<br>
 2. [Play](#play)<br>
